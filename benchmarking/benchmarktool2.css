@@ -1,0 +1,42 @@
+#map1-color {
+   color: #11b6d6;
+}
+
+#map2-color {
+   color: #95c21d;
+}
+
+[data-group="1"] .bm-group-header {
+   color: #02a3c5;
+}
+
+[data-group="2"] .bm-group-header {
+   color: #97bf31;
+}
+
+[data-group="1"] .rank-bar :first-child {
+   background-color: #02a3c5;
+}
+
+[data-group="2"] .rank-bar :first-child {
+   background-color: #97bf31;
+}
+
+.bm-group-header[data-key="g1-caption"] {
+   color: #02a3c5;
+}
+
+.bm-group-header[data-key="g2-caption"] {
+   color: #97bf31;
+}
+
+#g1 .group-bar {
+   background-color: #11b6d6;
+}
+
+#g2 .group-bar {
+   background-color: #95c21d;
+}
+
+
+
